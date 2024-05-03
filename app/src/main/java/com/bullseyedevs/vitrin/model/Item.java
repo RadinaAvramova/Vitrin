@@ -2,10 +2,6 @@ package com.bullseyedevs.vitrin.model;
 
 import java.io.Serializable;
 
-/**
- * Created by brkckr on 28.10.2017.
- */
-
 public class Item implements Serializable
 {
     public int id;
